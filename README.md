@@ -116,6 +116,8 @@ IoT-based healthcare monitoring platform integrating wearable devices, cloud ser
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=a-muqeet27&layout=compact&theme=tokyonight&hide_border=true)
 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=a-muqeet27&theme=github-compact)
+
 ---
 
 ## 📫 Connect with Me
