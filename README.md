@@ -112,9 +112,9 @@ IoT-based healthcare monitoring platform integrating wearable devices, cloud ser
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-yourname.vercel.app/api?username=a-muqeet27&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=a-muqeet27&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats-yourname.vercel.app/api/top-langs/?username=a-muqeet27&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=a-muqeet27&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
