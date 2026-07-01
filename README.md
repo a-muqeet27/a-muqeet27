@@ -116,7 +116,6 @@ IoT-based healthcare monitoring platform integrating wearable devices, cloud ser
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=a-muqeet27&theme=tokyonight)
 [![GitHub Streak](https://streak-stats.demolab.com?user=a-muqeet27&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=a-muqeet27&layout=compact&theme=tokyonight&hide_border=true)
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=a-muqeet27&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=a-muqeet27&theme=tokyonight)
 
 ---
