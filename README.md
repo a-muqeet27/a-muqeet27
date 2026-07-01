@@ -59,7 +59,7 @@ I enjoy solving real-world problems through technology and continuously learning
 
 ## 💼 Featured Projects
 
-### 🚗 AI-Based Driver Drowsiness Detection System
+### 🚗 Alert Mate
 
 * AI-powered driver monitoring system.
 * Custom deep learning model for eye landmark regression.
@@ -69,50 +69,8 @@ I enjoy solving real-world problems through technology and continuously learning
 
 ---
 
-### 🏥 Hospital Management System
-
-Java-based desktop application implementing object-oriented programming concepts including inheritance, interfaces, and polymorphism.
-
----
-
-### 🔍 PERG – Parallel File Search
-
-A parallel version of grep developed using:
-
-* C++
-* OpenMP
-* JavaFX GUI
-* Multi-threaded searching
-* Advanced command-line options
-
----
-
-### 🧠 Dementia Virtual Memory Assistant
-
-An AI-assisted mobile application helping dementia patients recognize family members, remember important events, and manage daily activities.
-
----
-
-### ❤️ VitalCareX
-
-IoT-based healthcare monitoring platform integrating wearable devices, cloud services, and AI analytics for continuous patient monitoring.
-
----
-
-## 🌱 Currently Learning
-
-* Advanced Machine Learning
-* Deep Learning
-* Computer Vision
-* Cloud Computing
-* System Design
-* Backend Development
-
----
-
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=a-muqeet27&show_icons=true&theme=tokyonight&hide_border=true)
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=a-muqeet27&theme=tokyonight)
 [![GitHub Streak](https://streak-stats.demolab.com?user=a-muqeet27&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=a-muqeet27&layout=compact&theme=tokyonight&hide_border=true)
