@@ -72,8 +72,8 @@ I enjoy solving real-world problems through technology and continuously learning
 ## 📈 GitHub Stats
 
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=a-muqeet27&theme=tokyonight)
-[![GitHub Streak](https://streak-stats.demolab.com?user=a-muqeet27&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=a-muqeet27&layout=compact&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=a-muqeet27&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=a-muqeet27&theme=tokyonight)
 
 ---
