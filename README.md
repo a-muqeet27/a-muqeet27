@@ -15,8 +15,6 @@ I enjoy solving real-world problems through technology and continuously learning
 
 ---
 
-## 🛠️ Tech Stack
-
 ## 💻 Languages
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -51,9 +49,6 @@ I enjoy solving real-world problems through technology and continuously learning
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Ngrok](https://img.shields.io/badge/Ngrok-1F1E37?style=for-the-badge)
 
 ---
 
